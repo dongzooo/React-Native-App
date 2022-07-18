@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "952933799953",
+    "project_id": "dongzoogallery",
+    "storage_bucket": "dongzoogallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952933799953:android:99d86114ab69b31f4639b0",
+        "android_client_info": {
+          "package_name": "com.dongzoogallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952933799953-g3e6avh1fb6h4al69p18rfq4ajstrop0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dongzoogallery",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "952933799953-j5sorahb04tvdplg8npb8iiuf4nns3f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOUhQDVxLQwizq7wobMFyis4nxSMKZ_Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952933799953-j5sorahb04tvdplg8npb8iiuf4nns3f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
